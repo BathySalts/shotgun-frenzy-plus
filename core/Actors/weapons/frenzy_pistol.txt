@@ -50,8 +50,8 @@ ACTOR Beretta : Weapon
 
 ACTOR Beretta_Dual : Weapon
 {
-	Weapon.AmmoUse1 2
-	Weapon.AmmoUse2 1
+	Weapon.AmmoUse1 1
+	Weapon.AmmoUse2 2
 	Weapon.AmmoGive 20
 	Weapon.AmmoType1 "Clip"
 	Weapon.AmmoType2 "Clip"
